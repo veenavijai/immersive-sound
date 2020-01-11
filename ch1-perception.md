@@ -15,3 +15,7 @@ Comprises the pinna and canal.
 (1) It gathers the pressure waves and focuses them on the eardrum at the end of the canal. The canal selectively  boosts sound pressures, which makes humans especially sensitive to frequencies in the range of 2–5 kHz - probably directly related to speech perception.
 
 (2) A second important function of the pinnae is to selectively filter sound frequencies in order to provide cues about the elevation of a sound source: up/down and front/back angles.
+
+#### Middle Ear
+
+
